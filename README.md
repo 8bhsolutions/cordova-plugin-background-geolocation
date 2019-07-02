@@ -1,3 +1,9 @@
+## 8bhsolutions fork installation
+
+`
+cordova plugin add https://github.com/8bhsolutions/cordova-plugin-background-geolocation.git
+`
+
 # @mauron85/cordova-plugin-background-geolocation
 
 ## We're moving
