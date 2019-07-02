@@ -1,8 +1,12 @@
-## 8bhsolutions fork installation
+## 8bhsolutions instructions
 
+### Installation
 `
 cordova plugin add https://github.com/8bhsolutions/cordova-plugin-background-geolocation.git
 `
+
+### Uninstall
+cordova plugin rm 8bhsolutions-cordova-plugin-background-geolocation
 
 # @mauron85/cordova-plugin-background-geolocation
 
