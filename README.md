@@ -6,7 +6,9 @@ cordova plugin add https://github.com/8bhsolutions/cordova-plugin-background-geo
 `
 
 ### Uninstall
+`
 cordova plugin rm 8bhsolutions-cordova-plugin-background-geolocation
+`
 
 # @mauron85/cordova-plugin-background-geolocation
 
