@@ -16,6 +16,18 @@ cordova plugin rm 8bhsolutions-cordova-plugin-background-geolocation
 
 Npm package is now [@mauron85/cordova-plugin-background-geolocation](https://www.npmjs.com/package/@mauron85/cordova-plugin-background-geolocation)!
 
+### Updating sub-modules
+
+Update and commit the code in the relevant sub-module repository
+
+Then in the checkout folder of this repository
+
+`
+git submodule update --remote --merge
+
+THEN stage all changes  - git add some/path/to/your/submodule
+THEN commit - git commit -m "Updated submodules to latest commit"
+`
 
 ## Donation
 
